@@ -1,0 +1,23 @@
+.swatches {
+    display: inline-block;
+    margin: 15px;
+}
+
+.card {
+    height: 200px;
+    width: 170px;
+    border: 1px solid #000;
+}
+
+.hex-copy {
+    padding: 15px;
+    text-align: center;
+}
+
+.dark-blue {
+    background-color: #333366;
+}
+
+.dark-gray {
+    background-color: #545454;
+}
